@@ -1,1 +1,1 @@
-# LR_7_Programming_basics
+# LR_6_Programming_basics
